@@ -9,7 +9,7 @@
 root = true
 
 [*]
-charset = windows 1252
+charset = UTF-8
 indent_style = space
 indent_size = 2
 end_of_line = lf
